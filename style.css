@@ -1,0 +1,152 @@
+*{
+  font-family:'poppins', sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.card1{
+  width: 280px;
+  height:655px;
+  background-color: lemonchiffon;
+  border-radius:15px;
+  margin: 30px;
+  padding: 40px;
+}
+.cards h2{
+  font-size: 40px;
+}
+.cards span{
+  font-size: 17px;
+  color:maroon;
+  margin-top: 19px;
+}
+.cards h3{
+  font-size: 30px;
+  color: darkgreen;
+}
+.cards p{
+  color:maroon;
+}
+.cards ul {
+  list-style: none;
+  padding-left: 0px;
+line-height: 50px;
+}
+.cards ul span{
+  margin-top: -11px;
+}
+.cards #fa{
+  font-size:23px;
+  font-weight:lighter;
+  color: darkgreen;
+}
+.button1{
+  padding: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+    border: none;
+    border-radius: 13px;
+    font-size: 15px;
+    margin-top: 40px;
+    color: maroon;
+}
+
+
+/*--------------CARD2---------------*/
+
+.card2{
+  width: 280px;
+  height:655px;
+  background-color: lemonchiffon;
+  border-radius:15px;
+  margin: 30px;
+  padding: 40px;
+}
+.cards2 h2{
+  font-size: 40px;
+}
+.cards2 span{
+  font-size: 17px;
+  color:maroon;
+  margin-top: 19px;
+}
+.cards2 h3{
+  font-size: 30px;
+  color: slateblue;
+}
+.cards2 p{
+  color:maroon;
+}
+.cards2 ul {
+  list-style: none;
+  padding-left: 0px;
+line-height: 50px;
+}
+.cards2 ul span{
+  margin-top: -11px;
+}
+.cards2 #fa2{
+  font-size:23px;
+  font-weight:lighter;
+  color: slateblue;
+}
+.button2{
+  padding: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+    border: none;
+    border-radius: 13px;
+    font-size: 15px;
+    margin-top: 40px;
+    color: maroon;
+}
+
+/*---------------CARD3-------------*/
+
+.card3{
+  width: 280px;
+  height:655px;
+  background-color: lemonchiffon;
+  border-radius:15px;
+  margin: 30px;
+  padding: 40px;
+}
+.cards3 h2{
+  font-size: 40px;
+}
+.cards3 span{
+  font-size: 17px;
+  color:maroon;
+  margin-top: 19px;
+}
+.cards3 h3{
+  font-size: 30px;
+  color: dodgerblue;
+}
+.cards3 p{
+  color:maroon;
+}
+.cards3 ul {
+  list-style: none;
+  padding-left: 0px;
+line-height: 50px;
+}
+.cards3 ul span{
+  margin-top: -11px;
+}
+.cards3 #fa3{
+  font-size:23px;
+  font-weight:lighter;
+  color: dodgerblue;
+}
+.button3{
+  padding: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+    border: none;
+    border-radius: 13px;
+    font-size: 15px;
+    margin-top: 40px;
+    color: maroon;
+}
+
